@@ -1,4 +1,4 @@
-package com.example.ass-1;
+package com.example.ass_1;
 
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
